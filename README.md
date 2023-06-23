@@ -6,7 +6,7 @@ We utilize a number of datasets, namely team data, game outcomes, player statlin
 
 # Running the Simulation:
 
-The best way to run the simulation is through `nba-wins-prediction.ipynb` which involves the parsing and storage of historical information, cleaning and scaling of data, training and testing of models using monte-carlo validation, and testing the posited predictions on historical betting spreads. Various regression functions (linear, logistic, lasso, SVM) were tested to find the optimal combination in making predictions as well as features selected from team and player statistics.
+The best way to run the simulation is through [`nba-wins-prediction.ipynb`](https://github.com/roycekoh/nba_simulator_and_predictor/blob/main/src/nba-wins-prediction.ipynb) which involves the parsing and storage of historical information, cleaning and scaling of data, training and testing of models using monte-carlo validation, and testing the posited predictions on historical betting spreads. Various regression functions (linear, logistic, lasso, SVM) were tested to find the optimal combination in making predictions as well as features selected from team and player statistics.
 
 # Model and Prediction:
 
